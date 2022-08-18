@@ -1,4 +1,8 @@
-def name(name):
-    print('My name is ' + name)
+def first_name(name):
+    print('My first name is ' + name)
 
-name('JJ')
+def last_name(name):
+    print('My last name is ' + name)
+
+first_name('JJ')
+last_name('Testing')

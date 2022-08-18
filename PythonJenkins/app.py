@@ -1,9 +1,9 @@
-#!/usr/bin/python
-def first_name(name):
-    print('My first name is ' + name)
+def print_hi(name):
+    # Use a breakpoint in the code line below to debug your script.
+    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
-def last_name(name):
-    print('My last name is ' + name)
 
-first_name('JJ')
-last_name('testing5')
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+

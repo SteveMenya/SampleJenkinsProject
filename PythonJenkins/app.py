@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 def first_name(name):
     print('My first name is ' + name)
 

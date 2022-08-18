@@ -6,4 +6,4 @@ def last_name(name):
     print('My last name is ' + name)
 
 first_name('JJ')
-last_name('Testing')
+last_name('testing5')
